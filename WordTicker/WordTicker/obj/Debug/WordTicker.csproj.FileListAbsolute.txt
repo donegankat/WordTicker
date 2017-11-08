@@ -1,0 +1,7 @@
+c:\users\kdonegan.agileed\documents\visual studio 2017\Projects\WordTicker\WordTicker\bin\Debug\WordTicker.exe.config
+c:\users\kdonegan.agileed\documents\visual studio 2017\Projects\WordTicker\WordTicker\bin\Debug\WordTicker.exe
+c:\users\kdonegan.agileed\documents\visual studio 2017\Projects\WordTicker\WordTicker\bin\Debug\WordTicker.pdb
+c:\users\kdonegan.agileed\documents\visual studio 2017\Projects\WordTicker\WordTicker\obj\Debug\WordTicker.csprojResolveAssemblyReference.cache
+c:\users\kdonegan.agileed\documents\visual studio 2017\Projects\WordTicker\WordTicker\obj\Debug\WordTicker.csproj.CoreCompileInputs.cache
+c:\users\kdonegan.agileed\documents\visual studio 2017\Projects\WordTicker\WordTicker\obj\Debug\WordTicker.exe
+c:\users\kdonegan.agileed\documents\visual studio 2017\Projects\WordTicker\WordTicker\obj\Debug\WordTicker.pdb
